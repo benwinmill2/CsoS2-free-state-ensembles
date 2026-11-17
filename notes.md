@@ -14,6 +14,6 @@ Original motivation:
 I'm curious about the CsoS2 conformations but its too disordered to approach by typical means (Alphafold) and the Head-Gordon lab does work with IDP simulation so I'm famiiarising myself with it to answer my questions.
 
 Acknowledgements:
-Thank you Owen for almost onboarding me to your project on the a-carboxysome and thank you CoC advising for having an electronic whiteboard displaying the research interests of the Head-Gordon lab @ Berkeley 
+Thank you Owen for *almost* onboarding me to your project on the a-carboxysome and thank you CoC advising for having an electronic whiteboard displaying the research interests of the Head-Gordon lab @ Berkeley 
 
 
