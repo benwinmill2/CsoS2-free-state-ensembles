@@ -1,8 +1,8 @@
 **The big picture:**
-CsoS2 largely, but especially the C-terminal region, is disoredered when free but adopts a well defined conformation when bound to shell proteins (CsoS1A hexamers) The repeated [IV]TG motifs act as the points of contact/ hooks for these two proteins. 
+CsoS2 largely, but especially the C-terminal region, is disordered when free but adopts a well defined conformation when bound to shell proteins (CsoS1A hexamers) The repeated [IV]TG motifs act as the points of contact/ hooks for these two proteins. 
 
 **The question:**
-Do free-state ensembles (ML-generated, coarse-grained and my own atomistic MD if I can) sample the bound conformation of the motifs, and how much do methods differ?
+How often do predicted free-state ensembles of CsoS2 sample the bound-like conformation of the C-terminal [IV]TG motifs seen in 8B12, and how much does this differ between the methods that generated them?
 
 **Goals:**
 compare methods to eachother (bound-likeness) quantify uncertainty and convergence of different computationally derived theoretical free-state conformations. Check whether simulations keep the experimental bound pose stable
